@@ -1,0 +1,22 @@
+{
+  "name": "smartcontract",
+  "version": "1.0.0",
+  "description": "Smart contract for a store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hardHat",
+    "npm",
+    "blockchain",
+    "smart",
+    "contract"
+  ],
+  "author": "Bluemary",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.0"
+  }
+}
