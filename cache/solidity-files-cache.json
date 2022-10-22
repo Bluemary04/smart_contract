@@ -37,8 +37,8 @@
       ]
     },
     "/home/maria.gambarte/Documents/learning/smartContract/contracts/CryptoShop.sol": {
-      "lastModificationDate": 1666395761076,
-      "contentHash": "4e030050a867667af13d8bc9c2438009",
+      "lastModificationDate": 1666463905582,
+      "contentHash": "af739263360fb5a58b93f509ba7ebba5",
       "sourceName": "contracts/CryptoShop.sol",
       "solcConfig": {
         "version": "0.8.17",
