@@ -1,6 +1,6 @@
  
 ## Repository:
- * `https://github.com/Bluemary04/hard-hat.git`
+ * `https://github.com/Bluemary04/smart_contract.git`
 ***
  
 * Once you have cloned the repo, install package.json
